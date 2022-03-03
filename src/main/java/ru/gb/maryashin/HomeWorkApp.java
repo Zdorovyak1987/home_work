@@ -33,5 +33,6 @@ public class HomeWorkApp {
         int a = 75, b = 35;
         System.out.println( (a >= b ? "a>=b" : "a<b"));
     }
+
     }
 
